@@ -17,7 +17,7 @@ LIMITE_SAQUES = 3
 
 while True:
 
-	opcao = input(menu)
+	opcao = int(input(menu))
 
 	if opcao == 1:
 		if numero_saques < LIMITE_SAQUES:
