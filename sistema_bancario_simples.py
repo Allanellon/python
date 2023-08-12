@@ -36,6 +36,9 @@ while True:
 				extrato += f"\n [1] Saque R$ {saque: .2f}"
 				print(f"Saque concluido! O seu novo saldo é de {saldo}")
 
+			elif saque < 0:
+				print("Operação invalida!")
+
 		elif numero_saques >= LIMITE_SAQUES:
 			print("Você ultrapassou o seu limite de saque!")
 
