@@ -14,7 +14,7 @@ O objetivo deste repositório é documentar e organizar o progresso das atividad
 
 O repositório está organizado de forma a facilitar a navegação e compreensão:
 
-- A pasta `exercicios` contém os desafios e exercícios propostos durante os cursos ou estudos.
-- Na pasta `projetos` estão os projetos mais elaborados ou práticos.
-- A pasta `experimentos` engloba pequenos testes e experimentos pessoais.
-- `outros` pode conter qualquer outro material relacionado ao aprendizado em Python.
+- A pasta `Exercícios` contém os desafios e exercícios propostos durante os cursos ou estudos.
+- Na pasta `Projetos` estão os projetos mais elaborados ou práticos.
+- A pasta `Experimentos` engloba pequenos testes e experimentos pessoais.
+- `Outros` pode conter qualquer outro material relacionado ao aprendizado em Python.
